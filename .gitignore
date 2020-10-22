@@ -30,3 +30,23 @@
 *.exe
 *.out
 *.app
+
+# Codeblocks Files
+*.cbp
+*.layout
+*.depend
+
+# Visual Studio Files
+*.suo
+*.db
+*.sln
+*.vcxproj
+*.log
+*.lastbuildstate
+*.tlog
+*.ipch
+*.filters
+*.user
+*.idb
+*.pdb
+*.ilk
